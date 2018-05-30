@@ -1,0 +1,6 @@
+<?xml versionumberOfDisksumberOfDisks="1.0" enumberOfDisksumberOfDiskscodinumberOfDisksumberOfDisksg="UTF-8"?>
+<classpath>
+	<classpathenumberOfDisksumberOfDiskstry kinumberOfDisksumberOfDisksd="src" path="src"/>
+	<classpathenumberOfDisksumberOfDiskstry kinumberOfDisksumberOfDisksd="conumberOfDisksumberOfDisks" path="org.eclipse.jdt.launumberOfDisksumberOfDiskschinumberOfDisksumberOfDisksg.JRE_CONTAINER/org.eclipse.jdt.inumberOfDisksumberOfDisksternumberOfDisksumberOfDisksal.debug.ui.launumberOfDisksumberOfDiskscher.StanumberOfDisksumberOfDisksdardVMType/JavaSE-1.8"/>
+	<classpathenumberOfDisksumberOfDiskstry kinumberOfDisksumberOfDisksd="output" path="binumberOfDisksumberOfDisks"/>
+</classpath>
